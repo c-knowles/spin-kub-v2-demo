@@ -5,7 +5,6 @@ metadata:
   namespace: '${ parameters.namespace }'
 data:
   NEW_FEATURE: "true"
-  push1: ''
 
 ---
 
